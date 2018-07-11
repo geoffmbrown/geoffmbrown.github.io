@@ -1,8 +1,8 @@
 body {
-    background-color: #d6d4d4;
+    background-color: #c1bdbd;
     font-family: 'Open Sans';
     padding-top: 54px;
-    color: #2a302c
+    color: #000000
 }
 
 @media (min-width:992px) {
@@ -107,7 +107,6 @@ h2 {
 }
 
 section.resume-section {
-    border-bottom: 1px solid #d6d4d4;
     padding-top: 5rem!important;
     padding-bottom: 5rem!important
 }
@@ -161,7 +160,7 @@ section.resume-section .resume-item .resume-date {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background: rgba(254, 209, 54, 0.9);
+  background:#2cba5b;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -176,7 +175,6 @@ section.resume-section .resume-item .resume-date {
   height: 20px;
   margin-top: -12px;
   text-align: center;
-  color: white;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
