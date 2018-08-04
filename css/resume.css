@@ -21,7 +21,7 @@ h6 {
     font-family: 'Saira Extra Condensed', serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: #2b3a29
+    color: #20a04a
 }
 
 h1 {
@@ -45,7 +45,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-    color: #00b300
+    color: #20a04a
 }
 
 .list-social-icons a .fa-lg {
@@ -57,13 +57,13 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-    color: #07df27
+    color: #20a04a
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 600;
     text-transform: uppercase;
-    color: #2cba5b
+    color: #20a04a
 }
 
 @media (min-width:750px) {
@@ -136,7 +136,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-    color: #2cba5b!important
+    color: #378e59!important
 }
 
 #portfolio .portfolio-item {
@@ -237,6 +237,7 @@ section.resume-section .resume-item .resume-date {
 
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
+  text-align: left;
 }
 
 .portfolio-modal .modal-content p.item-intro {
@@ -257,6 +258,8 @@ section.resume-section .resume-item .resume-date {
 
 .portfolio-modal .modal-content button {
   cursor: pointer;
+  background-color: #378e59;
+  border-color: #378e59;
 }
 
 .portfolio-modal .close-modal {
@@ -299,11 +302,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-    color: #16ba2e
+    color: #20a04a
 }
 
 a:active,
 a:focus,
 a:hover {
-    color: #0baa23
+    color: #378e59
 }
